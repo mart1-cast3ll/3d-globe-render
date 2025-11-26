@@ -2,6 +2,12 @@
 
 This is a **Next.js** project that renders an interactive **3D real‑time globe** using **Three.js** and **WebGL**.
 
+---
+
+![Land Page](public/landpage.png)
+
+---
+
 ## Getting Started
 
 First, install dependencies:
